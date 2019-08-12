@@ -1,0 +1,27 @@
+Deliverr
+
+External libraries to be added:
+
+Jackson - Used for JSON parsing 
+jackson-annotations-2.0.1.jar
+jackson-core-2.0.0.jar
+jackson-databind-2.0.0.jar
+
+Junit - Used for writing test cases
+groovy-all-2.4.12.jar
+hamcrest-all-1.3.jar
+junit-4.12.jar
+
+Useful links :
+
+https://www.mkyong.com/java/jackson-how-to-parse-json/
+https://github.com/FasterXML/jackson
+https://search.maven.org/search?q=g:junit%20AND%20a:junit&core=gav
+
+
+To run all the test cases, run the InventoryAllocatorTest file
+
+To run a java class, follow the following instructions
+1) Go to the directory where the java program is saved
+2) To compile, type - javac InventoryAllocatorTest.java
+3) To run, type - java InventoryAllocatorTest
